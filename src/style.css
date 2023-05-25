@@ -1,0 +1,33 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+html body {
+  margin: 0;
+  padding: 0;
+}
+
+.width {
+  width: 40%;
+}
+
+.brand-element {
+  flex-shrink: 0; /* Prevent child elements from shrinking */
+  width: 25%; /* Set a fixed width for child elements */
+  text-align: center; /* Center the text within child elements */
+  line-height: 100px; /* Vertically align the text within child elements */
+}
+
+.scroll-container {
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  max-height: 10vh; /* Set the max-height of the container to the desired image size */
+}
+
+.scroll-container img {
+  width: auto;
+  object-fit: contain;
+  margin: 0 20px;
+}
