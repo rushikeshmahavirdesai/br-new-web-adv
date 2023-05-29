@@ -45,7 +45,7 @@
       </div>
     </div>
   </section>
-
+  <KeyFeatures />
   <BoardingSteps />
 
 
@@ -113,6 +113,7 @@
     <ContactUs />
     <Footer />
   </section> -->
+
   <Features />
   <Testimonials />
   <ContactUs />
@@ -128,6 +129,7 @@ import Title from './components/Title.vue'
 import Hero from './components/Hero.vue'
 import BoardingSteps from './components/BoardingSteps.vue'
 import Features from "./components/Features.vue"
+import KeyFeatures from "./components/KeyFeatures.vue"
 window.addEventListener('load', () => {
   const images = document.querySelectorAll('.scroll-container img')
   let minHeight = Infinity

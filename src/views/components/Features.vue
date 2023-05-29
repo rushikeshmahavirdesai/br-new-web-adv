@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#f7fdf3] ">
+  <div class="bg-[#f7fdf3]" id="features">
     <section id="e-Commerce_Website">
       <div class="mx-auto !w-full px-4 py-16 sm:px-6 lg:px-8 ">
 
