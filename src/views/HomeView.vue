@@ -1,6 +1,6 @@
 <template>
   <Navbar />
-  <div class="!h-10"></div>
+  <div class="!h-16"></div>
   <Hero />
 
 
