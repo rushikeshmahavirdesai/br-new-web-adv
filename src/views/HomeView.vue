@@ -46,7 +46,7 @@
     </div>
   </section>
 
-  <!-- <BoardingSteps /> -->
+  <BoardingSteps />
 
 
 
