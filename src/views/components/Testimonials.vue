@@ -3,7 +3,7 @@
     <!-- <div class="font-devanagari text-brandGreen font-bold text-4xl m-5 text-center !rounded-2xl">
       What our customers say
     </div> -->
-    <Title :title="' What our customers say'" />
+    <Title :title="' What Our Customers Say'" />
     <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8 gap-2">
       <div class="swiper-container !overflow-hidden">
         <div class="swiper-wrapper">

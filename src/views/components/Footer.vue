@@ -1,5 +1,5 @@
 <template>
-  <footer aria-label="Site Footer" class="bg-[#ECF8E5]">
+  <footer aria-label="Site Footer" class="bg-[rgba(236, 248, 229,.4)] !border-t-2">
     <div class="max-w-screen-xl px-4 py-16 mx-auto space-y-8 sm:px-6 lg:space-y-16 lg:px-8">
       <div class="grid grid-cols-1 pt-8 border-t border-gray-100 gap-20 sm:grid-cols-2 lg:grid-cols-3 lg:pt-16">
         <div v-for="link in footerLinks">
@@ -18,7 +18,7 @@
         </div>
       </div>
 
-      <p class="text-base text-[#347571] text-center">&copy;Ashti Ventures Private Limited. All Rights Reserved.</p>
+      <p class="text-base text-[#347571] text-center font-bold border-t-2 pt-2">&copy;Ashti Ventures Private Limited. All Rights Reserved.</p>
     </div>
   </footer>
 </template>
