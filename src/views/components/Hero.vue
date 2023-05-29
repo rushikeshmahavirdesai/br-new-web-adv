@@ -3,9 +3,9 @@
     <div style="height: 65%" class="grid grid-cols-1 bg-[#ECF8E5] md:grid-cols-2 items-center px-20 py-10 !gap-6 lg:grid-cols-2">
       <div class="!-mt-20">
         <div class="width"><img src="../../assets/flaticon.webp" alt="" /></div>
-        <div class="">
+        <div class=" text-center md:textleft lg:text-left xl-text-left">
           <div
-            class="font-devanagari text-brandGree !sm:text-center mt-10 lg:my-20  md:my-20 md:text-7xl lg:text-7xl text-[#347571] xl:text-7xl text-3xl font-bold">
+            class="font-devanagari text-brandGree  mt-10 lg:my-20  md:my-20 md:text-7xl lg:text-7xl text-[#347571] xl:text-7xl text-3xl font-bold">
             आपका<br />
             का Digital सारथी
           </div>
