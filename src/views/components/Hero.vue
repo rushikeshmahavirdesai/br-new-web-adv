@@ -26,7 +26,7 @@
       <div class="font-devanagari text-[#347571] md:text-2xl px-5 lg:text-2xl xl:text-2xl text-1xl flex flex-col items-center">
         <div class="text-center">e-Commerce | GST Billing | POS | Inventory Management | Digital Sales</div>
 
-        <a class="rounded-full px-5 mt-10 !bg-[#347571] py-2 text-white font-bold " href="https://apps.bharatrath.com/bos/login"
+        <a class="rounded-full px-5 mt-14 !bg-[#347571] py-2 text-white font-bold " href="https://apps.bharatrath.com/bos/login"
           target="blank">Start Now</a>
         <!-- <button class="rounded-full bg-[#ECF8E5] px-4 py-2 text-white font-bold mt-10">
           Start Now
