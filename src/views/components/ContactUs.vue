@@ -88,7 +88,7 @@ Illustration from undraw.co by the amazing Katerina Limpitsouni
             <span class="uppercase text-sm text-gray-600 font-bold">Who I Am</span>
 
             <div class="w-full !flex !flex-wrap ">
-              <div class="!w-1/2" v-for="radio in radioOPts">
+              <div class="!md:w-1/2 lg:w-1/2 xl:w-1/2 w-full" v-for="radio in radioOPts">
                 <input id="default-radio-1 " type="radio" :value="radio" name="who_im" class=" " />
                 <label for="default-radio-1 " class="!ml-2">{{ radio }}</label>
               </div>
