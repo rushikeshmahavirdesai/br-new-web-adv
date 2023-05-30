@@ -5,10 +5,10 @@ A sample contact us page form written with tailwind css
 Illustration from undraw.co by the amazing Katerina Limpitsouni
 -->
 
-  <body class="bg-[#ECF8E5] text-gray-100 p-1" id="contact_us">
+  <body class="bg-[#ECF8E5] text-gray-100 p-5" id="contact_us">
 
     <div
-      class="max-w-screen-xl mt-24 px-8 grid gap-8 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto bg-white text-gray-900 rounded-lg shadow-lg">
+      class="max-w-screen-xl px-8 grid gap-8 grid-cols-1 md:grid-cols-2 md:px-12 lg:px-16 xl:px-32 py-16 mx-auto bg-white text-gray-900 rounded-lg shadow-lg">
       <div class="flex flex-col justify-between !items-center">
         <div>
           <h2 class="text-4xl lg:text-5xl font-bold leading-tight !text-[#347571]">Contact</h2>
