@@ -34,9 +34,7 @@ Illustration from undraw.co by the amazing Katerina Limpitsouni
       <div class="flex flex-col justify-between !items-center">
         <div>
           <h2 class="text-4xl lg:text-5xl font-bold leading-tight !text-[#347571]">Contact</h2>
-          <div class="text-gray-700 mt-8 !font-bold">
-            We are always happy to hear from you. To reach us on social media
-          </div>
+
           <div class="mt-5">
 
             <div class="space-y-4 text-[#347571]">

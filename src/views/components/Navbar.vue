@@ -25,7 +25,7 @@
       </div>
     </div>
     <div class="navbar-end">
-      <img src="https://cdn.bharatrath.com/image/rnp5hmry.png" class="!h-10" />
+      <img src="../../assets/logo.png" class="!object-fill !h-14 " />
     </div>
   </div>
 </template>

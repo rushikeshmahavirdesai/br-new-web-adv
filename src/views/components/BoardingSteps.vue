@@ -14,7 +14,7 @@
               <rect fill="url(#b902cd03-49cc-4166-a0ae-4ca1c31cedba)" width="52" height="24"></rect>
             </svg>
           </span>
-          आपके Business को Upgrade करने के 3 आसान Steps
+          आपके Business को Upgrade <div class="mt-3">करने के 3 आसान Steps</div>
         </h2>
         <p class="text-base text-[#347571]  md:text-lg">
           Email Account खोलने से भी आसान है, भारतरथ पर Digital Business बनाना
@@ -92,76 +92,6 @@
 
           </div>
         </div>
-        <!-- <div class="!h-44 bg-brandGreen">
-          <div class="flex  items-center justify-between">
-            <div>
-              <p class="text-2xl font-bold !text-[#347571] ">Onboarding</p>
-              <ul class="list-disc">
-                <li class="flex "><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                    viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                    <path fill-rule="evenodd"
-                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                      clip-rule="evenodd"></path>
-                  </svg>Bharatrath team will upload all your products</li>
-                <li class="flex "><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                    viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                    <path fill-rule="evenodd"
-                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                      clip-rule="evenodd"></path>
-                  </svg>Bharatrath team will create your website template</li>
-                <li class="flex "><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                    viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                    <path fill-rule="evenodd"
-                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                      clip-rule="evenodd"></path>
-                  </svg>Bharatrath team will make your website, POS and inventory system live</li>
-              </ul>
-            </div>
-            <svg class="w-10 text-[#347571]  transform rotate-90 sm:rotate-0" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round" viewBox="0 0 24 24">
-              <line fill="none" stroke-miterlimit="10" x1="2" y1="12" x2="22" y2="12"></line>
-              <polyline fill="none" stroke-miterlimit="10" points="15,5 22,12 15,19 "></polyline>
-            </svg>
-          </div>
-        </div> -->
-        <!-- <div>
-          <div class="flex items-center justify-between mb-6">
-            <p class="text-2xl font-bold !text-[#347571] ">Go Live</p>
-            <svg class="w-6 text-[#347571]  transform rotate-90 sm:rotate-0" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round" viewBox="0 0 24 24">
-              <line fill="none" stroke-miterlimit="10" x1="2" y1="12" x2="22" y2="12"></line>
-              <polyline fill="none" stroke-miterlimit="10" points="15,5 22,12 15,19 "></polyline>
-            </svg>
-          </div>
-          <p class="text-gray-600">
-          <ul class="list-disc">
-            <li class="flex items-center"><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                <path fill-rule="evenodd"
-                  d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                  clip-rule="evenodd"></path>
-              </svg>Go Live with your system</li>
-            <li class="flex items-center"><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                <path fill-rule="evenodd"
-                  d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                  clip-rule="evenodd"></path>
-              </svg>Accept your first online order</li>
-            <li class="flex items-center"><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                <path fill-rule="evenodd"
-                  d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                  clip-rule="evenodd"></path>
-              </svg>Create your first POS bill</li>
-            <li class="flex items-center"><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                <path fill-rule="evenodd"
-                  d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                  clip-rule="evenodd"></path>
-              </svg>Send your first Purchase Order</li>
-          </ul>
-          </p>
-        </div> -->
 
         <div class=" p-5">
           <div class="flex  h-full  justify-between w-full">
@@ -204,45 +134,11 @@
 
           </div>
         </div>
-        <!-- <div class="">
-          <div class="flex  items-center justify-between">
-            <div>
-              <p class="text-2xl font-bold !text-[#347571] ">Go Live</p>
-              <ul class="list-disc">
-                <li class="flex items-center"><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                    viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                    <path fill-rule="evenodd"
-                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                      clip-rule="evenodd"></path>
-                  </svg>Go Live with your system</li>
-                <li class="flex items-center"><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                    viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                    <path fill-rule="evenodd"
-                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                      clip-rule="evenodd"></path>
-                  </svg>Accept your first online order</li>
-                <li class="flex items-center"><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                    viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                    <path fill-rule="evenodd"
-                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                      clip-rule="evenodd"></path>
-                  </svg>Create your first POS bill</li>
-                <li class="flex items-center"><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
-                    viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                    <path fill-rule="evenodd"
-                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                      clip-rule="evenodd"></path>
-                  </svg>Send your first Purchase Order</li>
-              </ul>
-            </div>
-            <svg class="w-10 text-[#347571]  transform rotate-90 sm:rotate-0" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round" viewBox="0 0 24 24">
-              <line fill="none" stroke-miterlimit="10" x1="2" y1="12" x2="22" y2="12"></line>
-              <polyline fill="none" stroke-miterlimit="10" points="15,5 22,12 15,19 "></polyline>
-            </svg>
-          </div>
-        </div> -->
+
       </div>
+      <div class="flex !items-center !justify-center mt-5"><a class="rounded-full px-5  !bg-[#347571] py-2 text-white  font-bold !md mdmt-10"
+          href="https://apps.bharatrath.com/bos/login" target="blank">Start Now</a></div>
+
     </div>
 
 

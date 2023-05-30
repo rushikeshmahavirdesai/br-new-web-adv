@@ -2,14 +2,18 @@
   <div class="!h-screen">
     <div style="height: 65%" class="grid grid-cols-1 bg-[#ECF8E5] md:grid-cols-2 items-center px-20 py-10 !gap-6 lg:grid-cols-2">
       <div class="!-mt-20">
-        <div class="width"><img src="../../assets/flaticon.webp" alt="" /></div>
+        <img src="../../assets/logo.png" class="!object-fill !h-20 !sm:hidden xl:block hidden !md:hidden" />
         <div class=" text-center md:textleft lg:text-left xl-text-left">
-          <div
-            class="font-devanagari text-brandGree  mt-10 lg:my-20  md:my-20 md:text-7xl lg:text-7xl text-[#347571] xl:text-7xl text-3xl font-bold">
-            आपका<br />
-            का Digital सारथी
+          <div class="font-devanagari text-brandGree mt-10 md:text-7xl lg:text-7xl text-[#347571] xl:text-7xl text-3xl font-bold">
+            आपका
+
           </div>
-          <div class="font-devanagari text-[#347571] md:text-4xl lg:text-4xl xl:text-4xl text-1xl ">
+          <div
+            class="font-devanagari text-brandGree my-4 !xs:my-4 !sm:my-4 :lg:my-10 xl:my-10 2xl:my-10  md:text-7xl lg:text-7xl text-[#347571] xl:text-7xl text-3xl font-bold">
+
+            Digital सारथी
+          </div>
+          <div class="font-devanagari text-[#347571] md:text-4xl lg:text-4xl xl:text-2xl text-1xl ">
             अब मिनटों में अपने बिज़नेस को बनाये Digital
           </div>
         </div>
