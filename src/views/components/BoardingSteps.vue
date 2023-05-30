@@ -47,12 +47,16 @@
               </ul>
             </div>
 
-            <svg class="w-2/12  text-[#347571]  transform rotate-90 sm:rotate-0" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+            <!-- <svg class="w-2/12  text-[#347571]  transform rotate-90 sm:rotate-0" stroke="currentColor" stroke-width="2" stroke-linecap="round"
               stroke-linejoin="round" viewBox="0 0 24 24">
               <line fill="none" stroke-miterlimit="10" x1="2" y1="12" x2="22" y2="12"></line>
               <polyline fill="none" stroke-miterlimit="10" points="15,5 22,12 15,19 "></polyline>
+            </svg> -->
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-2/12  text-[#347571]  transform rotate-90 sm:rotate-0" viewBox="0 0 24 24"
+              width="24px" fill="#347571">
+              <path d="M0 0h24v24H0V0z" fill="none" />
+              <path d="M14 8.83L17.17 12 14 15.17V14H6v-4h8V8.83M12 4v4H4v8h8v4l8-8-8-8z" />
             </svg>
-
 
           </div>
         </div>
@@ -83,10 +87,10 @@
               </ul>
             </div>
 
-            <svg class="w-2/12  text-[#347571]  transform rotate-90 sm:rotate-0" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round" viewBox="0 0 24 24">
-              <line fill="none" stroke-miterlimit="10" x1="2" y1="12" x2="22" y2="12"></line>
-              <polyline fill="none" stroke-miterlimit="10" points="15,5 22,12 15,19 "></polyline>
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-2/12  text-[#347571]  transform rotate-90 sm:rotate-0" viewBox="0 0 24 24"
+              width="24px" fill="#347571">
+              <path d="M0 0h24v24H0V0z" fill="none" />
+              <path d="M14 8.83L17.17 12 14 15.17V14H6v-4h8V8.83M12 4v4H4v8h8v4l8-8-8-8z" />
             </svg>
 
 
@@ -125,10 +129,10 @@
               </ul>
             </div>
 
-            <svg class="w-2/12  text-[#347571]  transform rotate-90 sm:rotate-0" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round" viewBox="0 0 24 24">
-              <line fill="none" stroke-miterlimit="10" x1="2" y1="12" x2="22" y2="12"></line>
-              <polyline fill="none" stroke-miterlimit="10" points="15,5 22,12 15,19 "></polyline>
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-2/12  text-[#347571]  transform rotate-90 sm:rotate-0" viewBox="0 0 24 24"
+              width="24px" fill="#347571">
+              <path d="M0 0h24v24H0V0z" fill="none" />
+              <path d="M14 8.83L17.17 12 14 15.17V14H6v-4h8V8.83M12 4v4H4v8h8v4l8-8-8-8z" />
             </svg>
 
 
