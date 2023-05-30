@@ -83,7 +83,7 @@
         </div>
       </div>
     </section>
-    <section class="!bg-white" id="Inventory_Management">
+    <section class="!bg-white" id="gst_feature">
       <div class="mx-auto w-full px-4 py-16 sm:px-6 lg:px-8">
         <Title :des="'भारतरथ के All-in-One Billing & User-Friendly POS से अपनी Sales Process को दीजिये नयी Superpowers'"
           :title="'GST Billing & POS'" />

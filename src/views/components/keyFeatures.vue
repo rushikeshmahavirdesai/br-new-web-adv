@@ -22,7 +22,7 @@
             आपकी Shop हो या Warehouse, Distributorship हो या Production unit, भारतरथ आपके लिए लाये
             है GST billing - Retail POS और B2B Customer bills के लिए.
           </div>
-          <a href="#Inventory_Management"><img src="../../assets/features/down-button.png" alt="" class="pt-2 pb-5" /></a>
+          <a href="#gst_feature"><img src="../../assets/features/down-button.png" alt="" class="pt-2 pb-5" /></a>
         </div>
         <div class="bg-[#dcf4ce] flex flex-col items-center w-full justify-between">
           <img src="../../assets/features/inventory.png" alt="" class="p-5 !h-48" />
