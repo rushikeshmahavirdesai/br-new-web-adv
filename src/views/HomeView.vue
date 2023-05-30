@@ -4,7 +4,7 @@
   <Hero />
 
 
-  <section class="brands mt-4 mb-20 p-5">
+  <section class="brands !-mt-5 mb-20 p-5">
 
     <Title :title="'भारत के Businesses का एक ही भरोसा'" />
     <div class="slider">

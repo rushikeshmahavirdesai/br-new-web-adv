@@ -1,5 +1,5 @@
 <template>
-  <div class="p-5 " id="features">
+  <div class="p-5 !-mt-5" id="features">
     <!-- <div class="font-devanagari text-[#347571]  font-bold text-2xl m-5 text-center">
       भारतरथ का World Class Software, भारत के Businesses के लिए
     </div> -->
