@@ -44,55 +44,62 @@ Illustration from undraw.co by the amazing Katerina Limpitsouni
 
       </div>
       <div class="">
+        <form ref="form" @submit.prevent="sendEmail">
+          <div v-if="!saving" class="">
+            <div class="px-3 mb-5">
+              <span class="uppercase text-sm text-gray-600 font-bold">Name</span>
 
-        <div v-if="!saving" class="">
-          <div class="px-3 mb-5">
-            <span class="uppercase text-sm text-gray-600 font-bold">Name</span>
-
-            <input type="text" name="user_name"
-              class="bg-gray-300 text-gray-900 w-full p-2 rounded-lg border-2 border-gray-200 outline-none" />
-
-          </div>
-          <div class="px-3 mb-5">
-            <span class="uppercase text-sm text-gray-600 font-bold">Message</span>
-
-            <input type="email" name="user_email" class="w-full bg-gray-300 p-2 rounded-lg border-2 border-gray-200 outline-none" />
-
-          </div>
-
-          <div class="w-full px-3 mb-5">
-            <span class="uppercase text-sm text-gray-600 font-bold">Who I Am</span>
-
-            <div class="w-full !flex !flex-wrap ">
-              <div class="!md:w-1/2 lg:w-1/2 xl:w-1/2 w-full" v-for="radio in radioOPts">
-                <input id="default-radio-1 " type="radio" :value="radio" name="who_im" class=" " />
-                <label for="default-radio-1 " class="!ml-2">{{ radio }}</label>
-              </div>
+              <input type="text" name="user_name"
+                class="bg-gray-300 text-gray-900 w-full p-2 rounded-lg border-2 border-gray-200 outline-none" />
 
             </div>
+            <div class="px-3 mb-5">
+              <span class="uppercase text-sm text-gray-600 font-bold">Email</span>
+
+              <input type="email" name="user_email" class="w-full bg-gray-300 p-2 rounded-lg border-2 border-gray-200 outline-none" />
+
+            </div>
+
+            <div class="w-full px-3 mb-5">
+              <span class="uppercase text-sm text-gray-600 font-bold">Who I Am</span>
+
+              <div class="w-full !flex !flex-wrap ">
+                <div class="!md:w-1/2 lg:w-1/2 xl:w-1/2 w-full" v-for="radio in radioOPts">
+                  <input id="default-radio-1 " type="radio" :value="radio" name="who_im" class=" " />
+                  <label for="default-radio-1 " class="!ml-2">{{ radio }}</label>
+                </div>
+
+              </div>
+            </div>
+
+
+            <div class="px-3 mb-5">
+              <span class="uppercase text-sm text-gray-600 font-bold">Phone</span>
+
+              <input type="phone" name="phone" class="w-full bg-gray-300 p-2 rounded-lg border-2 border-gray-200 outline-none" />
+
+            </div>
+
+            <div class="px-3 mb-5">
+              <div for="" class="text-gray-900 text-base font-semibold mb-2">Message</div>
+
+
+              <textarea id="message" rows="4" name="message"
+                class="w-full bg-gray-300 p-2 rounded-lg border-2 border-gray-200 outline-none"></textarea>
+
+            </div>
+
+            <div class="flex !items-end">
+              <input type="submit" value="SEND MESSAGE" class="text-white px-4 py-2 !bg-[#347571] font-bold mt-10 w-full !cursor-pointer" />
+            </div>
           </div>
-
-
-          <div class="px-3 mb-5">
-            <span class="uppercase text-sm text-gray-600 font-bold">Phone</span>
-
-            <input type="phone" name="phone" class="w-full bg-gray-300 p-2 rounded-lg border-2 border-gray-200 outline-none" />
-
+          <div
+            class="flex items-center justify-center font-bold top-0 bottom-0 right-0 left-0 bg-brandGray brandGreen fixed z-40 text-brandGreen text-2xl"
+            v-if="saving">
+            Sending...
           </div>
+        </form>
 
-          <div class="px-3 mb-5">
-            <div for="" class="text-gray-900 text-base font-semibold mb-2">Message</div>
-
-
-            <textarea id="message" rows="4" name="message"
-              class="w-full bg-gray-300 p-2 rounded-lg border-2 border-gray-200 outline-none"></textarea>
-
-          </div>
-
-          <div class="flex !items-end">
-            <input type="submit" value="SEND MESSAGE" class="text-white px-4 py-2 !bg-[#347571] font-bold mt-10 w-full !cursor-pointer" />
-          </div>
-        </div>
       </div>
     </div>
   </body>
@@ -117,7 +124,8 @@ export default {
       this.$refs.form.reset();
 
       this.saving = true;
-      emailjs.sendForm("service_zcwceqj", "template_16tua1x", this.$refs.form, "5aCh8vb8IqfuUz7P4").then(
+      emailjs.sendForm("service_fjsjr6m", "template_4m2irqk", this.$refs.form, "GZdvWFXQaYtk2G7oE").then(
+
         (result) => {
           debugger;
           this.saving = false;

@@ -3,7 +3,7 @@
     <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
       <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
         <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none t text-[#347571]  sm:text-4xl md:mx-auto">
-          <span class="relative inline-block">
+          <span class="relative inline-block !sm:hidden xl:block hidden !md:hidden">
             <svg viewBox="0 0 52 24" fill="currentColor"
               class="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-blue-gray-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block">
               <defs>
@@ -23,7 +23,7 @@
       <div class="grid  lg:grid-cols-3 sm:grid-cols-1 gap-2">
         <div class=" p-5">
           <div class="flex  h-full  justify-between w-full">
-            <div class="!w-11/12 flex flex-col ">
+            <div class="!xl:w-11/12 !sm:w-full  flex flex-col ">
               <p class="text-2xl font-bold !text-[#347571] mb-5">Sign Up</p>
               <ul class="list-disc">
                 <li class="flex items-center"><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
@@ -52,7 +52,8 @@
               <line fill="none" stroke-miterlimit="10" x1="2" y1="12" x2="22" y2="12"></line>
               <polyline fill="none" stroke-miterlimit="10" points="15,5 22,12 15,19 "></polyline>
             </svg> -->
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-2/12  text-[#347571]  transform rotate-90 sm:rotate-0" viewBox="0 0 24 24"
+            <svg xmlns="http://www.w3.org/2000/svg"
+              class="w-2/12 !sm:hidden xl:block hidden !md:hidden text-[#347571]  transform rotate-90 sm:rotate-0" viewBox="0 0 24 24"
               width="24px" fill="#347571">
               <path d="M0 0h24v24H0V0z" fill="none" />
               <path d="M14 8.83L17.17 12 14 15.17V14H6v-4h8V8.83M12 4v4H4v8h8v4l8-8-8-8z" />
@@ -63,7 +64,7 @@
 
         <div class=" p-5">
           <div class="flex  h-full  justify-between w-full">
-            <div class="!w-11/12 flex flex-col ">
+            <div class="!xl:w-11/12 !sm:w-full  flex flex-col ">
               <p class="text-2xl font-bold !text-[#347571]  mb-5">Onboarding</p>
               <ul class="list-disc">
                 <li class="flex "><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
@@ -87,7 +88,8 @@
               </ul>
             </div>
 
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-2/12  text-[#347571]  transform rotate-90 sm:rotate-0" viewBox="0 0 24 24"
+            <svg xmlns="http://www.w3.org/2000/svg"
+              class="w-2/12 !sm:hidden xl:block hidden !md:hidden text-[#347571]  transform rotate-90 sm:rotate-0" viewBox="0 0 24 24"
               width="24px" fill="#347571">
               <path d="M0 0h24v24H0V0z" fill="none" />
               <path d="M14 8.83L17.17 12 14 15.17V14H6v-4h8V8.83M12 4v4H4v8h8v4l8-8-8-8z" />
@@ -99,7 +101,7 @@
 
         <div class=" p-5">
           <div class="flex  h-full  justify-between w-full">
-            <div class="!w-11/12 flex flex-col ">
+            <div class="!xl:w-11/12 !sm:w-full  flex flex-col ">
               <p class="text-2xl font-bold !text-[#347571]  mb-5">Go Live</p>
               <ul class="list-disc">
                 <li class="flex items-center"><svg class="w-4 h-4 mr-1.5 text-[#347571] dark:text-[#347571] flex-shrink-0" fill="currentColor"
@@ -138,7 +140,8 @@
       <div
         class="flex !items-center !justify-center mt-5 font-devanagari text-[#347571] md:text-2xl px-5 lg:text-2xl xl:text-2xl text-1xl flex flex-col items-center">
         <a class="rounded-full px-5 mt-10 !bg-[#347571] py-2 text-white font-bold " href="https://apps.bharatrath.com/bos/login"
-          target="blank">Start Now</a></div>
+          target="blank">Start Now</a>
+      </div>
 
     </div>
 
