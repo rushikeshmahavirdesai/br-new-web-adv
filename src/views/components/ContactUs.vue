@@ -121,7 +121,7 @@ export default {
   methods: {
     sendEmail() {
       debugger;
-      this.$refs.form.reset();
+
 
       this.saving = true;
       emailjs.sendForm("service_fjsjr6m", "template_4m2irqk", this.$refs.form, "GZdvWFXQaYtk2G7oE").then(
